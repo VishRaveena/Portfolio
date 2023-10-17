@@ -227,7 +227,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("/Untitled-2.png") no-repeat
+    background: url("./image/Untitled-2.png") no-repeat
       center;
     height: 100vh;
     color: #fff;
